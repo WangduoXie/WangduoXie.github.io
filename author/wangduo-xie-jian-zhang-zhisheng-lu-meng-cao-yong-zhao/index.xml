@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wangduo Xie, Jian Zhang, Zhisheng Lu, Meng Cao, Yong Zhao | WangduoXie</title>
+    <link>https://WangduoXie.github.io/author/wangduo-xie-jian-zhang-zhisheng-lu-meng-cao-yong-zhao/</link>
+      <atom:link href="https://WangduoXie.github.io/author/wangduo-xie-jian-zhang-zhisheng-lu-meng-cao-yong-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wangduo Xie, Jian Zhang, Zhisheng Lu, Meng Cao, Yong Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://WangduoXie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wangduo Xie, Jian Zhang, Zhisheng Lu, Meng Cao, Yong Zhao</title>
+      <link>https://WangduoXie.github.io/author/wangduo-xie-jian-zhang-zhisheng-lu-meng-cao-yong-zhao/</link>
+    </image>
+    
+    <item>
+      <title>[ICASSP 2020] Non-local Nested Residual Attention Network For Stereo Image Super-resolution</title>
+      <link>https://WangduoXie.github.io/publication/conference-paper/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://WangduoXie.github.io/publication/conference-paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
